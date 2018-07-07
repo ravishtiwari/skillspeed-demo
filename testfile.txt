@@ -1,2 +1,4 @@
-SkillSpeed Git Demo
+Skillspeed Git Demo
 Another line
+
+Adding some chagnes
